@@ -48,3 +48,5 @@ temp/
 # Package lock (optional)
 # package-lock.json
 /generated/prisma
+
+/generated/prisma
